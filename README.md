@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **rutsav333@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 👨‍💻 All of my projects are available at [https://iamutsavraj.netlify.app/](https://iamutsavraj.netlify.app/)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XSn5vRGKRR3T_9fUX3Iy9zeQ5fRKL33I/view](https://drive.google.com/file/d/1XSn5vRGKRR3T_9fUX3Iy9zeQ5fRKL33I/view)
 
 
 <h3 align="left">Progrmmning Language and Analytical Tools:</h3>  
